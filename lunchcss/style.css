@@ -1,0 +1,64 @@
+body{
+
+
+marging:0;
+padding:0;
+
+}
+.joinus-button{
+
+margin:10px;
+}
+.navbar{
+
+
+
+  background-color:#ff9292;
+}
+
+div.col img{
+
+
+padding:0px;
+width:100%;
+
+
+
+
+}
+
+div.container p{
+
+text-align: center;
+ font-family: 'Zilla Slab', serif;
+
+font-size: 2.5rem;
+
+}
+.navbar-toggler{
+
+background-color:red;
+color:red;
+}
+div.col h1,p{
+
+text-align: center;
+
+
+}
+div.col h1{
+
+color:red;
+
+}
+.social-icon: hover{
+ transform: scale(1.5);
+}
+
+#footer{
+  padding: 10px 20px;
+  background-color: #edeef7;
+  width:100%;
+
+  text-align: center;
+}
