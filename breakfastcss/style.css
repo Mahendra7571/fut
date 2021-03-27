@@ -1,0 +1,25 @@
+body{
+text-align: center;
+margin:0;
+padding:0;
+}
+
+.joinus-button{
+
+margin:10px;
+}
+.box{
+
+margin:0 auto 0;
+
+
+
+width:800px;
+padding:2.4rem;
+
+}
+.navbar{
+
+
+  background-color:#ff9292;
+}
